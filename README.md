@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HFSS,PYTHON**
 
-- 📫 How to reach me **chaithanyaraj@snmimt.edu.in**
+- 📫 How to reach me **chaithuatimt@gmail.com**
 
 - ⚡ Fun fact **lending technology and education, and I recently completed an advanced course on Embedded Systems with Arduino just for fun!**
 

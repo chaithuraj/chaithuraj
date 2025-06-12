@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Chaithanya+Raj;Educator+%7C+IoT+Enthusiast+%7C+Python+Learner;Tech+%2B+Education+Advocate+%F0%9F%93%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Chaithanya+Raj;Educator+%7C+IoT+Enthusiast+%7C+Python+Learner;Tech+%2B+Education+Advocate+%F0%9F%93%96" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -73,5 +73,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%9A%80" alt="Thanks for visiting" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%9A%80" alt="Thanks for visiting" />
 </p>
